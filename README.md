@@ -1,7 +1,7 @@
 ## Resume Builder | React
 
 ### About
-<h1 style="background-color:red;">Chetan Solanki </h1>
+<h1 <style="background-color:red;"> Chetan Solanki </h1>
 
 Resume-Builder is single page web application created in React Library.
 
@@ -33,7 +33,7 @@ Run `npm install` in `/resume-builder` and in `/resume-builder/backend` to insta
 
 Run `npm start` in `/resume-builder` and in `/resume-builder/backend` to run your local copy in browser.
 
-After open  `resume-builder` and `npm install`, and `npm start` in `/resume-builder` Your project will run in lolcalhost .
+After open  `resume-builder` and `npm install`, and `npm start` in `/resume-builder` Your project will run in localhost:3000 .
 
 //** Chetan Solanki  **//
 
