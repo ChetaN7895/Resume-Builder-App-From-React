@@ -6,7 +6,7 @@
 Resume-Builder is single page web application created in React Library.
 
 ### Resume 1.0 (using jspdf)
-![React App - Google Chrome 25-10-2024 21_16_11](https://github.com/user-attachments/assets/35109d3c-a1c6-4f36-aea5-26371dde199a)
+![download pdf - Adobe Acrobat Reader (64-bit) 01-11-2024 13_58_18](https://github.com/user-attachments/assets/6b93e725-1449-4466-a3ab-b4ebed6e8930)
 
 
 ### Resume 2.0 (using html-pdf)
