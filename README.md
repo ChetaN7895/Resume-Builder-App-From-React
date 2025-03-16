@@ -12,6 +12,12 @@ Resume-Builder is single page web application created in React Library.
 ### Resume 2.0 (using html-pdf)
  ![newPdf pdf - Adobe Acrobat Reader (64-bit) 27-10-2024 13_43_55](https://github.com/user-attachments/assets/1756ecbb-9de4-4d12-b5bc-43c61425861d)
 
+## ABOUT The Project
+This application simplifies the resume creation process, allowing users to effortlessly craft professional resumes that stand out. Here are some key features:
+✅ User-Friendly Interface: Designed with usability in mind, making it easy for anyone to create a polished resume.
+✅ Real-Time Preview: See your changes in real-time, so you can make adjustments on the fly.
+✅ Export Options: Download your resume in multiple formats (PDF) for easy sharing.
+I’m thrilled to have applied my React skills in this project, focusing on responsiveness and performance.
 
 ### Technologies
 
